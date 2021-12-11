@@ -1,0 +1,16 @@
+{
+  "basePackage": "software.daveturner.gametime",
+  "configPackage": "software.daveturner.gametime.config",
+  "apiPackage": "software.daveturner.gametime.controllers",
+  "modelPackage": "software.daveturner.gametime.domain",
+  "groupId": "software.daveturner.gametime",
+  "artifactId": "gametime",
+  "artifactVersion": "0.1.0",
+  "delegatePattern" : true,
+  "hideGenerationTimestamp" : true,
+  "returnSuccessCode" : true,
+  "developerEmail" : "davetii@gmail.com",
+  "developerName" : "Dave Turner",
+  "developerOrganization" : "greatwideweb.com",
+  "developerOrganizationUrl" : "greatwideweb.com"
+}
